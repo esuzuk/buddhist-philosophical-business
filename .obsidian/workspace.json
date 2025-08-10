@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/references/空海_両界曼荼羅の現代的な解釈.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "空海_両界曼荼羅の現代的な解釈"
+              "title": "README"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/references/空海_両界曼荼羅の現代的な解釈.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "空海_両界曼荼羅の現代的な解釈へのバックリンク"
+              "title": "READMEへのバックリンク"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/references/空海_両界曼荼羅の現代的な解釈.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "空海_両界曼荼羅の現代的な解釈からのアウトゴーイングリンク"
+              "title": "READMEからのアウトゴーイングリンク"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/references/空海_両界曼荼羅の現代的な解釈.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "空海_両界曼荼羅の現代的な解釈のアウトライン"
+              "title": "READMEのアウトライン"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "d923803c9c47074e",
   "lastOpenFiles": [
-    "docs/references/飽和効用関数.md",
     "docs/references/空海_両界曼荼羅の現代的な解釈.md",
+    "docs/references/飽和効用関数.md",
     "README.md",
     "docs/philosophy/01_objective_architecture.md",
     "docs/references",
