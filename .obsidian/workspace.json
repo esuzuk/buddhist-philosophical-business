@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "24943aa76637cf23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f106132316fc4af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a7ffe4ceaa88e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14198c1485596069",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7499b553bdabda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b3ad69bd44271d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ce276f2f12a47104",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a1420ff6a56d29ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb814ca073272384",
+    "type": "split",
+    "children": [
+      {
+        "id": "c267f5c212c26bab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7089d4eb08fbc18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "067594a234c843bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "3d6ea6d95fe893f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "38309706849e486d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "13a7ffe4ceaa88e9",
+  "lastOpenFiles": [
+    "docs/operation/templates/rfc-template.md",
+    "docs/operation/templates/experiment-canvas.md",
+    "docs/operation/templates/decision-record-template.md",
+    "docs/operation/templates",
+    "docs/operation/README.md",
+    "docs/operation/playbooks/polis-process.md",
+    "docs/operation/playbooks/participatory-budgeting-qf.md",
+    "docs/operation/playbooks/consensus-and-qv.md",
+    "docs/operation/playbooks",
+    "docs/operation/08-metrics-and-evaluation.md",
+    "docs/operation/07-community-health.md",
+    "docs/operation/06-build-workflow.md",
+    "docs/operation/05-licensing-and-data.md",
+    "docs/operation/04-funding-and-stewardship.md",
+    "docs/operation/03-identity-and-reputation.md",
+    "docs/operation/02-deliberation.md",
+    "docs/operation/01-governance.md",
+    "docs/operation",
+    "docs/名称未設定フォルダ",
+    "docs/01_objective_architecture.md",
+    "docs/philosophy/10_conclusion.md",
+    "docs/philosophy/09_anti_erosion_invariants.md",
+    "docs/philosophy/08_epistemic_loop.md",
+    "docs/philosophy/07_steward_finance.md",
+    "docs/philosophy/06_karuna_marketing.md",
+    "docs/philosophy/05_dual_listings.md",
+    "docs/philosophy/04_metrics_accounting.md",
+    "docs/philosophy/03_dual_governance.md",
+    "docs/philosophy/02_doctrine_to_design.md",
+    "docs/philosophy/01_objective_architecture.md",
+    "docs/philosophy",
+    "docs/philosophie"
+  ]
+}
